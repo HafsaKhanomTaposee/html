@@ -1,0 +1,35 @@
+.header{
+    width: 600px;
+    display: flex;
+}
+.logo{
+    width: 150px;
+    background-color: rgb(192, 143, 238);
+    padding-left: 20px;
+    box-sizing: border-box;
+}
+.heading{
+    width: 450px;
+    background-color: rgb(202, 165, 236);
+}
+.container{
+    width: 600px;
+    display: flex;
+}
+.sidebar1{
+    width: 150px;
+    background-color: rgb(162, 125, 195);
+}
+.content{
+    width: 300px;
+    background-color: rgb(147, 119, 172);
+}
+.sidebar2{
+    width: 150px;
+    background-color: rgb(162, 125, 195);
+}
+.footer{
+    width: 600px;
+    height: 30px;
+    background-color: rgb(193, 145, 238);
+}
